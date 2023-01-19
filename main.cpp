@@ -15,7 +15,6 @@ static BufferedSerial serial_port(PA_2, PA_3);
 
 // Prototipos de las funciones 
 void visualiza(void);
-void rutinabcd(int numero);
 void rx_serie(void);
 
 // Hilos 
